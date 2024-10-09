@@ -1,9 +1,9 @@
 # Commit for cool web
 ## On branch master
 
-## Initial commit
+Initial commit
 
-# Changes to be committed:
+#### files uploaded:
 1.	new file:   StockCake-Hand touches leaf_1727206382.jpg
 2.	new file:   hamburger.jpg
 3.	new file:   index.html
