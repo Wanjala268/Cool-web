@@ -33,7 +33,7 @@ body{
 }
 
 .header-section{
-    background: url(/images/tablesetting2.jpg);
+    background: url(tablesetting2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
